@@ -50,6 +50,6 @@ Run the simulation
 
 Generate vending_wave.vcd waveform file
 
-3️ View Waveform
+to view View Waveform
 gtkwave vending_wave.vcd
 
